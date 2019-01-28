@@ -1,0 +1,1 @@
+<li><article style="height:70px;padding-top:50px;">[field:global.autoindex/]</article><p style="height:90px;padding-top:40px;line-height :30px;">[field:description function="cn_substr(@me,360)"/]</p></li>

@@ -1,0 +1,48 @@
+<!--懒加载-->   
+<script>
+function lazyload(option){ 
+var settings={ 
+defObj:null, 
+defHeight:0 
+}; 
+settings=$.extend(settings,option||{}); 
+var defHeight=settings.defHeight,defObj=(typeof settings.defObj=="object")?settings.defObj.find("img"):$(settings.defObj).find("img"); 
+var pageTop=function(){ 
+return document.documentElement.clientHeight+Math.max(document.documentElement.scrollTop,document.body.scrollTop)-settings.defHeight; 
+}; 
+var imgLoad=function(){ 
+defObj.each(function(){ 
+if ($(this).offset().top<=pageTop()){ 
+var src2=$(this).attr("src2"); 
+if (src2){ 
+$(this).attr("src",src2).removeAttr("src2"); 
+} 
+} 
+}); 
+}; 
+imgLoad(); 
+
+// 绑定滚动事件 
+$(window).bind("scroll",function(){ 
+imgLoad(); 
+}); 
+} 
+
+lazyload({ 
+defObj:"#plist" 
+}) 
+</script>
+
+
+﻿        <div class="ban" style="margin-top:-20px;">
+            <div class="pics_wrap">
+	        <div id="html5zoo-1">
+		      <ul class="html5zoo-slides" style="display:none;">
+                          <li><img src="{dede:global.cfg_templets_skin/}/images/ban16.jpg"  alt="前海自贸区公司注册 - 明动投资咨询" /></li>
+                          <li><img src="{dede:global.cfg_templets_skin/}/images/ban11.jpg"  alt="前海自贸区公司注册 - 明动投资咨询" /></li>
+                          <li><a href="http://kf9.kuaishang.cn/bs/im.htm?cSource=1&cas=55927___925681&fi=64434&ri=18154310347&vi=f858d2f9e4cd4deda2b0f6c74a531907&dp=http%3A%2F%2Fsz.mdong.net.cn%2F&_d=1469082033384&_tk=8b22e2b3" target="_blank" rel="nofollow"><img src="{dede:global.cfg_templets_skin/}/images/ban02.jpg"  alt="前海融资租赁公司注册 - 明动投资咨询" /></a></li>
+                          <li><img src="{dede:global.cfg_templets_skin/}/images/ban03.jpg"  alt="前海商业保理公司注册 - 明动投资咨询" /></li>
+		     </ul>
+	       </div>
+           </div>
+        </div>

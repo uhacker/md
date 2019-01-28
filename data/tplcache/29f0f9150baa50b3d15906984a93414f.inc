@@ -1,0 +1,1 @@
+<li><article>[field:global.autoindex/]</article><p>{dede:field.description}</p></li>

@@ -1,0 +1,751 @@
+index     首页
+
+regist    公司注册
+
+finan    金融服务
+
+appro   专项审批
+
+policy   政策解读
+
+polarticle    文章页
+
+tax    财税咨询
+
+taxpage  财税咨询子页  
+
+about    关于我们
+
+
+前海公司注册 - 明动投资咨询
+
+<script>
+function Click(){
+  alt('版权所有，请勿复制!')
+  window.event.returnValue=false;
+}
+document.oncontextmenu=Click;
+</script>
+  
+
+<body oncontextmenu="self.event.returnValue=false" onselectstart="return false">
+    <!--头部部分-->
+    <div class="head">
+        <div class="top">
+            <img src="images/logo.jpg" alt="前海公司注册 - 明动投资咨询">
+            <div class="topright">
+                <article>与企业共同成长<br><em>Tel：40000-82848</em></article>
+                <div class="toprimg">
+                    <ul>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="menu" style="background:url(../images/top02-1.jpg) repeat-x; background-position :center  center;">
+            <div class="menuM">
+                <ul>
+                    <li><a style="padding:18px 32px 16px 31px;text-decoration:none ;color:#de0000;font-size:17px; font-weight :bold ;" href="#">首页</a></li>
+                    <li><a style="padding:18px 21px 16px 21px;text-decoration:none ;" href="#">前海公司注册</a></li>
+                    <li><a href="#" id="meu01">金融服务</a>
+                        <ul id="menlsit01">
+                            <li><a href="#" id="M04">融资租赁</a></li>
+                            <li><a href="#" id="M04">商业保理</a></li>
+                            <li><a href="#" id="M04">增资验资</a></li>
+                            <li><a href="#" id="M04">保险经纪</a></li>
+                            <li><a href="#" id="M03">境外投资备案</a></li>
+                            <li><a href="#" id="M03">私募基金备案</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#" id="meu02">专项审批</a>
+                        <ul id="menlsit02"> 
+                            <li><a href="#" id="M04">增值电信</a></li>
+                            <li><a href="#" id="M04">资质许可</a></li>
+                            <li><a href="#">互联网服务</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#" id="meu03">财税咨询</a>
+                        <ul id="menlsit03">
+                            <li><a href="#" id="M04">财务代理</a></li>
+                            <li><a href="#" id="M04">审计报告</a></li>
+                            <li><a href="#" id="M04">审计评估</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">政策解读</a></li>
+                    <li><a href="#">关于明动</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="ban">
+            <div class="pics_wrap">
+	        <div id="html5zoo-1" style="display: block; position: relative; width: 1889px;">
+		      <ul class="html5zoo-slides" style="display:none;">
+			  <li><a href="#"><img src="images/ban01.jpg" alt="前海公司注册 - 明动投资咨询"></a></li>
+              <li><a href="#"><img src="images/ban02.jpg" alt="前海公司注册 - 明动投资咨询"></a></li>
+              <li><a href="#"><img src="images/ban03.jpg" alt="前海公司注册 - 明动投资咨询"></a></li>
+		     </ul>
+	       <div class="html5zoo-wrapper-0"><div class="html5zoo-background-image-0"></div><div class="html5zoo-bottom-shadow-0"></div><div class="html5zoo-slider-0"><div class="html5zoo-box-0"><div class="html5zoo-swipe-box-0"><div class="html5zoo-space-0"><img style="width:100%;max-width:100%;" src="images/ban01.jpg"></div><div class="html5zoo-img-box-0" style="cursor: pointer; overflow: hidden;"><div class="html5zoo-img-0 " style="display: none; position: absolute; left: 0px; top: 0px; width: 100%; height: auto;"><img style="position:absolute;max-width:100%;height:auto;left:0%;top:0%;" src="images/ban01.jpg"></div><div class="html5zoo-img-0 " style="display: block; position: absolute; left: 0px; top: 0px; width: 100%; height: auto;"><img style="position:absolute;max-width:100%;height:auto;left:0%;top:0%;" src="images/ban03.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 0px; top: 0%; width: 189px; height: 86.4731%; overflow: hidden;"><img style="position: absolute; height: auto; left: 0px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 189px; width: 189px; height: 77.5244%; overflow: hidden; bottom: 0%;"><img style="position: absolute; height: auto; left: -189px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 378px; top: 0%; width: 189px; height: 65.3065%; overflow: hidden;"><img style="position: absolute; height: auto; left: -378px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 567px; width: 189px; height: 46.987%; overflow: hidden; bottom: 0%;"><img style="position: absolute; height: auto; left: -567px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 756px; top: 0%; width: 189px; height: 24.1449%; overflow: hidden;"><img style="position: absolute; height: auto; left: -756px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 945px; width: 189px; height: 0%; overflow: hidden; bottom: 0%;"><img style="position: absolute; height: auto; left: -945px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 1134px; top: 0%; width: 189px; height: 0%; overflow: hidden;"><img style="position: absolute; height: auto; left: -1134px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 1323px; width: 189px; height: 0%; overflow: hidden; bottom: 0%;"><img style="position: absolute; height: auto; left: -1323px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 1512px; top: 0%; width: 189px; height: 0%; overflow: hidden;"><img style="position: absolute; height: auto; left: -1512px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div><div class="html5zoo-img-slice-0 " style="display: block; position: absolute; left: 1701px; width: 189px; height: 0%; overflow: hidden; bottom: 0%;"><img style="position: absolute; height: auto; left: -1701px; top: 0%;; max-width:1889px !important;" src="images/ban01.jpg"></div></div></div></div><div class="html5zoo-text-wrapper-0" style="display: none; overflow: hidden; width: 100%; height: auto; position: absolute; left: 0px; bottom: 0px; margin-bottom: 0px;"><div class="html5zoo-text-0"><div class="html5zoo-text-bg-0"></div><div class="html5zoo-title-0">前海公司注册 - 明动投资咨询</div><div class="html5zoo-description-0"></div></div></div><div class="html5zoo-play-0" style="display: none;"></div><div class="html5zoo-video-wrapper-0" style="display: none;"></div><div class="html5zoo-ribbon-0"></div><div class="html5zoo-arrow-left-0" style="overflow: hidden; position: absolute; cursor: pointer; width: 48px; height: 48px; left: 0px; top: 50%; margin-top: -24px; display: none; background: url(&quot;http://localhost:31428/style/../images/arrows-48-48-3.png&quot;) 0% 0% no-repeat;"></div><div class="html5zoo-arrow-right-0" style="overflow: hidden; position: absolute; cursor: pointer; width: 48px; height: 48px; right: 0px; top: 50%; margin-top: -24px; display: none; background: url(&quot;http://localhost:31428/style/../images/arrows-48-48-3.png&quot;) 100% 0% no-repeat;"></div><div class="html5zoo-timer-0" style="display: block; position: absolute; left: 0px; bottom: 0px; width: 10%; height: 2px; opacity: 0.6; background-color: rgb(255, 255, 255);"></div><div class="html5zoo-watermark-0"></div></div><div class="html5zoo-nav-0" style="display: block; position: absolute; height: auto; overflow: hidden; width: 100%; top: 100%; left: 0px; margin-top: -40px;"><div class="html5zoo-nav-container-0"><div class="html5zoo-bullet-wrapper-0" style="display: block; position: relative; width: 96px; height: auto; margin-left: auto; margin-right: auto; margin-top: 0px;"><div class="html5zoo-bullet-0-0" style="position: relative; float: left; margin-right: 12px; width: 24px; height: 24px; cursor: pointer; background: url(&quot;http://localhost:31428/style/../images/bullet-24-24-4.png&quot;) 0% 100% no-repeat;"></div><div class="html5zoo-bullet-0-1" style="position: relative; float: left; margin-right: 12px; width: 24px; height: 24px; cursor: pointer; background: url(&quot;http://localhost:31428/style/../images/bullet-24-24-4.png&quot;) 0% 0% no-repeat;"></div><div class="html5zoo-bullet-0-2" style="position: relative; float: left; margin-right: 0px; width: 24px; height: 24px; cursor: pointer; background: url(&quot;http://localhost:31428/style/../images/bullet-24-24-4.png&quot;) 0% 0% no-repeat;"></div></div></div></div><div class="html5zoo-nav-preview-0" style="display:none;position:absolute;width:120px;height:60px;background-color:#ffffff;padding:4px;"><div class="html5zoo-nav-preview-arrow-0" style="display: block; position: absolute; width: 16px; height: 8px; left: 50%; top: 100%; margin-left: -8px; background: url(&quot;http://localhost:31428/style/../images/previewarrow-16-8-0.png&quot;) 50% 50% no-repeat;"></div><div class="html5zoo-nav-preview-images-0" style="display:block;position:relative;width:100%;height:100%;overflow:hidden;"></div><div class="html5zoo-nav-preview-play-0" style="display:none;position:absolute;left:0;top:0;width:100%;height:100%;background:url(&quot;http://localhost:31428/style/../images/play-32-32-0.png&quot;) no-repeat center center;"></div></div></div></div>
+           </div>
+        </div>
+    </div>
+    <!--公司业务-->
+    <div class="proc">
+<!--子类-前海公司注册-->
+<div class="index-tsfw overflow">
+	<!--左-->
+	<div class="tsfw-l-bg tsfw-l-bg01 left">
+    	<div class="index-tsfw-l overflow">
+            <h2 class="overflow">
+                <a class="left" href="#">前海公司注册</a>
+            </h2>
+            <ul class="tsfw-xx tsfw-xx_0">
+                <li class="alp adefalut alp-nml" id="alp01"><a href="#">内资注册</a></li>
+                <li class="alp adefalut" id="alp02"><a href="#">外资注册</a></li>
+                <li class="alp adefalut" id="alp03"><a href="#">中外合资注册</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- 右-->
+    <div class="index-tsfw-r right overflow">
+        <!-- 右【1】-->
+        <div id="tsfw-r01" class="tsfw-rdiv" style="display: block;">
+            <div class="tab01-1">
+                <div>
+                    <h3>前海公司注册条件</h3>
+                    <article>必须是新设立的公司，不能以分公司的形式入驻前海，若外省市经认定的总部型企业，注册资本超过500万人民币的，经审批可以通过迁址的形式迁入前海。</article>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <img src="images/tab01.jpg" alt="前海公司注册 - 明动投资咨询" style="width:234px;height:309px;background-color:#ffd800;float:right ;">
+            </div>
+            <div class="tab01-2">
+                <ul>
+                    <li><a href="#" id="lihov">实业公司注册</a></li>
+                    <li><a href="#">电子商务公司注册</a></li>
+                    <li><a href="#">融资租赁公司注册</a></li>
+                    <li><a href="#">商业保理公司注册</a></li>
+                    <li><a href="#" id="lihov">科技公司注册</a></li>
+                    <li><a href="#">咨询服务公司注册</a></li>
+                    <li><a href="#" id="lihov">技术公司注册</a></li>
+                    <li><a href="#">投资管理公司注册</a></li>
+                    <li><a href="#" id="lihov">贸易公司注册</a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【2】-->
+        <div id="tsfw-r02" class="tsfw-rdiv" style="display: none;">
+            <div class="tab01-1">
+                <div>
+                    <h3>前海公司注册流程</h3>
+                    <article>企业核名 --- 注册地址 --- 工商登记材料提交 --- 营业执照办理 --- 刻章 --- 后置审批等其它程序</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <img src="images/tab02.jpg" alt="前海公司注册 - 明动投资咨询" style="width:234px;height:309px;background-color:#ffd800;float:right ;">
+            </div>
+            <div class="tab01-2">
+                <ul>
+                    <li><a href="#" id="lihov">实业公司注册</a></li>
+                    <li><a href="#">电子商务公司注册</a></li>
+                    <li><a href="#">融资租赁公司注册</a></li>
+                    <li><a href="#">商业保理公司注册</a></li>
+                    <li><a href="#" id="lihov">科技公司注册</a></li>
+                    <li><a href="#">咨询服务公司注册</a></li>
+                    <li><a href="#" id="lihov">技术公司注册</a></li>
+                    <li><a href="#">投资管理公司注册</a></li>
+                    <li><a href="#" id="lihov">贸易公司注册</a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【3】-->
+        <div id="tsfw-r03" class="tsfw-rdiv" style="display: none;">
+            <div class="tab01-1">
+                <div>
+                    <h3>前海公司注册材料</h3>
+                    <article>根据深圳最新工商登记政策规定，股东全为个人或股东为个人与深圳企业的均需办理个人或企业数字证书通过网上全流程设立申请营业执照，不再受理提交书面执照材料进行申请。</article>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <img src="images/tab03.jpg" alt="前海公司注册 - 明动投资咨询" style="width:234px;height:309px;background-color:#ffd800;float:right ;">
+            </div>
+            <div class="tab01-2">
+                <ul>
+                    <li><a href="#" id="lihov">实业公司注册</a></li>
+                    <li><a href="#">电子商务公司注册</a></li>
+                    <li><a href="#">融资租赁公司注册</a></li>
+                    <li><a href="#">商业保理公司注册</a></li>
+                    <li><a href="#" id="lihov">科技公司注册</a></li>
+                    <li><a href="#">咨询服务公司注册</a></li>
+                    <li><a href="#" id="lihov">技术公司注册</a></li>
+                    <li><a href="#">投资管理公司注册</a></li>
+                    <li><a href="#" id="lihov">贸易公司注册</a></li>
+                </ul>
+            </div>
+		</div>    
+    </div> 
+</div>
+<!--子类-金融服务-->
+<div class="index-tsfw overflow" id="back04">
+	<!--左-->
+	<div class="tsfw-l-bg tsfw-l-bg01 left" id="tab04">
+    	<div class="index-tsfw-l overflow">
+            <h2 class="overflow">
+                <a class="left" href="#">金融服务</a>
+            </h2>
+            <ul class="tsfw-xx tsfw-xx_1">
+                <li class="alp adefalut alp-nml" id="Li1"><a href="#">融资租赁</a></li>
+                <li class="alp adefalut" id="Li2"><a href="#">商业保理</a></li>
+                <li class="alp adefalut" id="Li3"><a href="#">境外投资备案</a></li>
+                <li class="alp adefalut" id="Li4"><a href="#">私募基金备案</a></li>
+                <li class="alp adefalut" id="Li5"><a href="#">验资增资</a></li>
+                <li class="alp adefalut" id="Li6"><a href="#">保险经纪</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- 右-->
+    <div class="index-tsfw-r right overflow">
+        <!-- 右【1】-->
+        <div id="tsfw-r11" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>什么是融资租赁</h3>
+                    <article>融资租赁（Financial Leasing）又称设备租赁（Equipment Leasing）或现代租赁(Modern Leasing)，是指实质上转移与资产所有权有关的全部或绝大部分风险和报酬的租赁。资产的所有权最终可以转移，也可以不转移。</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:10px;"></div>
+                <div>
+                    <h3>融资租赁公司的优势</h3>
+                    <article>经营形式灵活，含金量高的类金融公司，获取境外低利率咨询，国家大力扶持……</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab04.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#">融资租赁</a></li>
+                    <li><a href="#">商业保理</a></li>
+                    <li><a href="#">增资验资</a></li>
+                    <li><a href="#">保险经纪</a></li>
+                    <li><a href="#" id="tabRpadding">私募基金备案</a></li>
+                    <li><a href="#" id="tabRpadding">境外投资备案</a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【2】-->
+        <div id="tsfw-r12" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>商业保理注册条件</h3>
+                    <article>外资商业保理公司的办理条件：1.发起人具有成立五年以上的香港公司，出具公司近一年的审计报告，香港公司律师公证，银行资信良好证明。</article><br><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:10px;"></div>
+                <div>
+                    <h3>商业保理经营范围</h3>
+                    <article>内资保理公司的经营范围：“保付代理（非银行融资类）”以及“从事保理业务的相关业务咨询”是内资保理公司常见的经营范围，但保理公司经常加入的经营范围还可以加入很多……</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab05.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#" style="padding:15px 58px 15px 58px;">ICP许可证</a></li>
+                    <li><a href="#" style="padding:15px 58px 15px 58px;">SP许可证</a></li>
+                    <li><a href="#" id="tabRpadding01">呼叫中心许可证</a></li>
+                    <li><a href="#">影视审批</a></li>
+                    <li><a href="#" id="tabRpadding">危化品许可证</a></li>
+                    <li><a href="#" id="tabRpadding01">食品经营许可证</a></li>
+                </ul>
+            </div>
+		</div>
+      <!-- 右【3】-->
+        <div id="tsfw-r13" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>境外投资备案及法律依据</h3>
+                    <article>境外投资指投资主体通过投入货币、有价证券、实物、知识产权或技术、股权、债权等资产和权益或提供担保，获得境外所有权、经营管理权及其他相关权益的活动。……</article><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:10px;"></div>
+                <div>
+                    <h3>自贸试验区境外投资主要优势</h3>
+                    <article>投资便利、融资便利、模式创新……</article><br><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab06.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#">税务咨询</a></li>
+                    <li><a href="#">财务筹划</a></li>
+                    <li><a href="#">审计评估</a></li>
+                    <li><a href="#" id="tabRpadding">税务风险调研</a></li>
+                    <li><a href="#">财务代理</a></li>
+                    <li><a href="#">评估报告</a></li>
+                </ul>
+            </div>
+		</div>
+      <!-- 右【4】-->
+        <div id="tsfw-r14" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>私募基金管理人备案登记的必要性</h3>
+                    <article>1，根据《证券投资基金法》和《私募投资基金管理人登记和基金备案办法（试行）》的规定，私募基金管理机构应当履行登记手续。否则，不得从事私募投资基金管理业务活动。</article><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:1px;"></div>
+                <div>
+                    <h3>私募基金管理人登记备案的基本条件</h3>
+                    <article>私募基金管理人的名称应规范，不能太随意；我们建议私募证券类可以取投资管理、基金管理、资产管理；股权类可以叫创业投资、股权投资、股权投资基金，当然投资管理、资产管理、基金管理也可以适用于股权。</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab07.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#">税务咨询</a></li>
+                    <li><a href="#">财务筹划</a></li>
+                    <li><a href="#">审计评估</a></li>
+                    <li><a href="#" id="tabRpadding">税务风险调研</a></li>
+                    <li><a href="#" id="A5">财务代理</a></li>
+                    <li><a href="#" id="A6">评估报告</a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【5】-->
+        <div id="tsfw-r15" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>公司增资的基本流程</h3>
+                    <article>1、各股东同意增资的股东会决议 2、修改或补充增资章程……</article><br><br><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:10px;"></div>
+                <div>
+                    <h3>出资注意事项</h3>
+                    <article>A货币资金出资注意事项 1、开立银行临时帐户投入资本金时须在银行单据“用途/款项来源/摘要/备注”一栏中注明“投资款”……</article><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab08.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#">税务咨询</a></li>
+                    <li><a href="#">财务筹划</a></li>
+                    <li><a href="#">审计评估</a></li>
+                    <li><a href="#" id="tabRpadding">税务风险调研</a></li>
+                    <li><a href="#" id="A7">财务代理</a></li>
+                    <li><a href="#" id="A8">评估报告</a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【6】-->
+        <div id="tsfw-r16" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>保险经纪公司办理设立流程条件</h3>
+                    <article>最低实收货币资本金为人民币1000万元。【根据保监会的决定，对《保险专业代理机构监管规定》第七条第一款修改为：“设立保险专业代理公司，其注册资本的最低限额为人民币5000万元……</article><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:10px;"></div>
+                <div>
+                    <h3>保险经纪公司股东及股本的要求</h3>
+                    <article>保险经纪公司的股东应符合保险经纪人管理的有关规定，各级党政机关、部队、社会团体、国家拨给经费的事业单位以及保险公司不得向保险经纪公司投资入股。 </article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab09.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#">融资租赁</a></li>
+                    <li><a href="#">商业保理</a></li>
+                    <li><a href="#">增资验资</a></li>
+                    <li><a href="#">保险经纪</a></li>
+                    <li><a href="#" id="tabRpadding">私募基金备案</a></li>
+                    <li><a href="#" id="tabRpadding">境外投资备案</a></li>
+                </ul>
+            </div>
+		</div> 
+    </div> 
+</div>
+<!--子类-专项审批-->
+<div class="index-tsfw overflow" id="back03">
+	<!--左-->
+	<div class="tsfw-l-bg tsfw-l-bg01 left" id="tab03">
+    	<div class="index-tsfw-l overflow">
+            <h2 class="overflow">
+                <a class="left" href="#">专项审批</a>
+            </h2>
+            <ul class="tsfw-xx tsfw-xx_2">
+                <li class="alp adefalut alp-nml" id="Li7"><a href="#">增值电信业务</a></li>
+                <li class="alp adefalut" id="Li8"><a href="#">资质许可</a></li>
+                <li class="alp adefalut" id="Li9"><a href="#">互联网服务</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- 右-->
+    <div class="index-tsfw-r right overflow">
+        <!-- 右【1】-->
+        <div id="tsfw-r21" class="tsfw-rdiv" style="display: block;">
+            <div class="tab01-1">
+                <div>
+                    <h3>什么是保健食品经营许可证</h3>
+                    <article>保健食品经营许可证是指任何从事保健食品生产、经营活动的企业，应当向药品监督管理部门申报，并按照规定办理卫生许可证申请手续……</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <img src="images/tab10.jpg" alt="前海公司注册 - 明动投资咨询" style="width:234px;height:309px;background-color:#ffd800;float:right ;">
+                <div style="height:5px;"></div>
+                <div>
+                    <h3>经营范围</h3>
+                    <article>任何从事保健食品生产、经营活动的企业。</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>               
+            </div>
+            <div class="tab01-2">
+                <ul>
+                    <li><a href="#" id="lihov01">影视审批</a></li>
+                    <li><a href="#" id="lihov">危化品许可证</a></li>
+                    <li style="width:140px;"><a href="#">保健食品经营许可证</a></li>
+                    <li><a href="#" id="lihov">绿色食品办理</a></li>
+                    <li><a href="#">食品流通许可证</a></li>
+                    <li><a href="#">定型包装食品审批</a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【2】-->
+        <div id="tsfw-r22" class="tsfw-rdiv" style="display: none;">
+            <div class="tab01-1">
+                <div>
+                    <h3>呼叫中心许可证经营范围</h3>
+                    <article>通过在境内设立呼叫中心平台，为境内外单位提供的、主要面向国内用户的呼叫中心业务。</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <img src="images/tab11.jpg" alt="前海公司注册 - 明动投资咨询" style="width:234px;height:309px;background-color:#ffd800;float:right ;">
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+                <div>
+                    <h3>什么是在线数据处理与交易业务（EDI）</h3>
+                    <article>在线数据处理与交易业务（EDI）是指利用各种与公用通信网或互联网相连的数据与交易/事务处理应用平台，</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tab01-2">
+                <ul>
+                    <li><a href="#" id="lihov">IP-VPN业务</a></li>
+                    <li><a href="#" id="lihov01">电信码号</a></li>
+                    <li><a href="#" id="lihov02">ISP许可证</a></li>
+                    <li><a href="#" id="lihov01">SP许可证</a></li>
+                    <li><a href="#" id="lihov01">EDI业务</a></li>
+                    <li><a href="#">呼叫中心许可证</a></li>
+                    <li><a href="#" id="lihov02">IDC许可证</a></li>
+                    <li><a href="#" id="lihov02">ICP许可证</a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【3】-->
+        <div id="tsfw-r23" class="tsfw-rdiv" style="display: none;">
+            <div class="tab01-1">
+                <div>
+                    <h3>什么是文网文？</h3>
+                    <article>网络文化经营许可证(简称：文网文)，指经文化行政部门和电信管理机构批准，从事经营性互联网文化活动的互联网信息服务提供者，其中经营性互联网文化活动是指以营利为目的……</article>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <img src="images/tab12.jpg" alt="前海公司注册 - 明动投资咨询" style="width:234px;height:309px;background-color:#ffd800;float:right ;">
+                <div style="height:3px;"></div>
+                <div>
+                    <h3>广播电视许可证</h3>
+                    <article>设立广播电视节目制作经营机构或从事广播电视节目制作经营活动应当取得《广播电视节目制作经营许可证》。</article>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tab01-2">
+                <ul>
+                    <li><a href="#">出版物经营许可</a></li>
+                    <li><a href="#">广播电视节目许可</a></li>
+                    <li><a href="#" id="lihov">医疗器械许可</a></li>
+                    <li><a href="#" id="lihov">游戏运营牌照</a></li>
+                    <li><a href="#" id="lihov">互联网出版</a></li>
+                    <li><a href="#">网络视听许可证</a></li>
+                    <li><a href="#">互联网医疗保健</a></li>
+                    <li><a href="#" id="lihov">网络文化资质</a></li>
+                </ul>
+            </div>
+		</div>    
+    </div> 
+</div>
+<!--子类-财税咨询-->
+<div class="index-tsfw overflow" id="back05">
+	<!--左-->
+	<div class="tsfw-l-bg tsfw-l-bg01 left" id="tab05">
+    	<div class="index-tsfw-l overflow">
+            <h2 class="overflow">
+                <a class="left" href="#">财税咨询</a>
+            </h2>
+            <ul class="tsfw-xx tsfw-xx_3">
+                <li class="alp adefalut alp-nml" id="Li10"><a href="#">财税代理</a></li>
+                <li class="alp adefalut" id="Li11"><a href="#">审计评估</a></li>
+                <li class="alp adefalut" id="Li12"><a href="#">审计报告</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- 右-->
+    <div class="index-tsfw-r right overflow">
+       <!-- 右【1】-->
+        <div id="tsfw-r31" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>减资验资报告</h3>
+                    <article>减资是指公司资本过剩或亏损严重，根据经营业务的实际情况，依法减少企业注册资本的行为。 企业减资需保护股东和债权人的利益，获股东大会的特别批准。</article><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:1px;"></div>
+                <div>
+                    <h3>企业验资报告</h3>
+                    <article> 企业设立验资，也叫内资企业开业验资，是内资公司成立时验证企业投入资本的真实性，出具验资报告（证明），提供给工商局和股东作为出资情况证明。设立验资包括货币验资、实物验资、无形资产验资等。</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab13.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#" id="tabRpadding">企业验资报告</a></li>
+                    <li><a href="#" id="tabRpadding">增资验资报告</a></li>
+                    <li><a href="#" id="tabRpadding">减资验资报告 </a></li>
+                </ul>
+            </div>
+		</div>
+       <!-- 右【2】-->
+        <div id="tsfw-r32" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>成就商机，明动帮你解决财税问题</h3>
+                    <article>1，找人代理记账，需要什么材料？<br>
+                             2，会计经验欠缺，找不到合适的？<br>
+                             3，怎样很好使用自贸区优惠政策？<br>
+                             4，自贸区公司新成立，想控制成本？<br>
+                             5，自贸区申请零申报不会怎么办？</article><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+   
+               
+            </div>
+            <div class="tabR">
+               <img src="images/tab14.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#" id="tabRpadding">企业验资报告</a></li>
+                    <li><a href="#" id="tabRpadding">增资验资报告</a></li>
+                    <li><a href="#" id="tabRpadding">减资验资报告 </a></li>
+                </ul>
+            </div>
+		</div>
+        <!-- 右【3】-->
+        <div id="tsfw-r33" class="tsfw-rdiv" style="display: block;">
+            <div class="tabL">
+                <div>
+                    <h3>财务审计报表</h3>
+                    <article>会计报表审计是最常规的审计业务，是会计师事务所的法定业务，审计依据是中国注册会计师审计准则要求。指会计师事务所和委托方对拟委托事项的初步接洽和了解……</article><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+                <div style="height:10px;"></div>
+                <div>
+                    <h3></h3>
+                    <article>  清算审计，是指企业由于各种原因终止，对其清算期间的债权债务清偿情况，资产变现情况，以及清算期间的收益、损失，费用支出情况进行的审计……</article><br><br>
+                    <em><a href="#">点击查看</a></em>
+                </div>
+            </div>
+            <div class="tabR">
+               <img src="images/tab15.jpg" alt="前海公司注册 - 明动投资咨询" style="width:395px;height:309px;"> 
+                <ul>
+                    <li><a href="#" id="tabRpadding">财务报表审计</a></li>
+                    <li><a href="#" id="tabRpadding">企业改制审计</a></li>
+                    <li><a href="#" id="tabRpadding">外汇年检审计</a></li>
+                    <li><a href="#" id="tabRpadding">企业内部审计</a></li>
+                    <li><a href="#" id="tabRpadding">工商年检审计</a></li>
+                    <li><a href="#" id="tabRpadding">财产转移审计</a></li>
+                </ul>
+            </div>
+		</div>  
+    </div> 
+</div>
+    </div>
+    <!--企业问题-->
+    <div class="prob">
+        <div></div>
+    </div>
+    <!--深圳明动-->
+    <div class="advan">
+        <h1>深圳明动</h1>
+        <div class="adv">
+            <ul>
+                <li><a href="#"><h2>专业解读</h2><article>积累了一整套详尽的自由贸易试验区的相关政策解读，配备专业自贸区政策研究组，对新政策进行汇总提炼。</article></a></li>
+                <li><a href="#"><h2>与时俱进</h2><article>与时俱进自贸区金融政策结合政策与案例的形式展现，自贸区发展的任何细微改变都会及时调整，第一时间出台应对方案。</article></a></li>
+                <li><a href="#"><h2>经验丰富</h2><article>明动是自贸区首批专业从事企业资讯服务的机构之一，在深圳最早一批开始做融资租赁公司注册业务100%办理。</article></a></li>
+                <li><a href="#"><h2>真诚服务</h2><article>在全国各大自贸区都可以注册办理，为企业提供一体化的政策资讯和一站式的注册服务。</article></a></li>
+            </ul>
+        </div>      
+            <div id="navT"> 
+            <ul>
+                <li><a href="#" target="_blank">自贸区政策咨询</a>
+                    <ul style="background:url(../images/index13.jpg) no-repeat;color:#ffffff;">
+                        <li style="height:140px;"></li>
+                         <li style="height:75px;"><p>入住深圳自贸区，从明动开始，专业解答状态政策，注册条件流程，点击咨询或或拨打电话</p></li>
+                         <li><em>40000-82848</em></li>
+                    </ul>
+               </li> 
+               <li><a href="#" target="_blank">我要委托业务</a>
+                   <ul style="background:url(../images/index14.jpg) no-repeat;color:#ffffff;">
+                      <li style="height:140px;"></li>
+                      <li style="height:75px;"><p>我要委托业务：想要委托自贸区注册，金融租赁注册，企业财务代理，一键咨询委托或热线  </p></li>
+                      <li><em>40000-82848</em></li>
+                   </ul>
+             </li>
+             <li><a href="#" target="_blank">行业交流咨询</a>
+                 <ul style="background:url(../images/index15.jpg) no-repeat;color:#ffffff;">
+                      <li style="height:140px;"></li>
+                      <li style="height:75px;"><p>行业交流咨询：想知道企业行情分析，行业动态，一键咨询或热线 </p></li>
+                      <li><em>40000-82848</em></li>
+                 </ul>
+            </li>
+         </ul>
+       </div>
+    </div>
+    <!--解决方案-->
+    <div class="plan">
+        <div class="planM">
+           <div class="planT">
+               <h1>明动解决方案</h1><br>
+               <div class="planimg">
+                   <ul>
+                       <a href="#"><li id="panli1"></li></a>
+                       <a href="#"><li id="panli2"></li></a>
+                       <a href="#"><li id="panli3"></li></a>
+                       <a href="#"><li id="panli4"></li></a>
+                       <a href="#"><li id="panli5"></li></a>
+                   </ul>
+               </div>
+               <div class="plantext">
+                   <ul>
+                       <li><a href="#">自贸区公司注册</a></li>
+                       <li><a href="#">融资租赁注册</a></li>
+                       <li><a href="#">企业财务代理</a></li>
+                       <li><a href="#">商业保理注册</a></li>
+                       <li><a href="#">私募基金备案</a></li>
+                   </ul>
+               </div>
+           </div>
+        <div class="planB">
+               <img src="../images/index16.jpg" alt="前海公司注册 - 明动投资咨询">
+               <div class="panR">
+                   <article> 入驻自贸区的企业首先应符合《前海深港现代服务合作区产业准入目录》，包括以下四大方面：金融业，现代物流业，信息股份业，科技服务业，专业服务业和公共服务业，入驻前海的企业，首先应符合《前海深港现代服务工作区》······</article>
+                   <a href="#"><em>点击咨询</em></a>
+                   <a href="#"><em>查看详情</em></a>
+               </div>
+           </div>
+        </div>
+    </div>
+    <!--合作客户-->
+    <div class="coop">
+        <div class="coopM">
+            <h1>合作客户</h1>
+            <ul>
+                <a href="#"><li></li></a>
+                <a href="#"><li></li></a>
+                <a href="#"><li></li></a>
+                <a href="#"><li></li></a>
+                <a href="#"><li id="coopli"></li></a>
+                <a href="#"><li></li></a>
+                <a href="#"><li></li></a>
+            </ul>
+        </div>
+    </div>
+    <!--底部版权-->
+    <div class="copyright">
+        <div class="copyT">
+            <div class="copTM"><em>版权声明：</em><article>本网页的设计、图片、文字著作权均属于深圳明动投资咨询有限公司所有，任何单位和个人抄袭本网页构成侵权将依法承担法律责任。<br>上海瀛东律师事务所-于文强律师</article></div>
+        </div>
+        <div class="copyC">
+            <ul>
+                <li>
+                    <ol>
+                        <li><a href="#"><h3><strong>金融服务</strong></h3></a></li>
+                        <li><a href="#">融资租赁</a></li>
+                        <li><a href="#">商业保理</a></li>
+                        <li><a href="#">增资验资</a></li>
+                        <li><a href="#">境外投资备案</a></li>
+                    </ol>
+                </li>
+                <li>
+                    <ol id="copbuton">
+                        <li><a href="#"><h3><strong>专项审批</strong></h3></a></li>
+                        <li><a href="#">食品经营许可证</a></li>
+                        <li><a href="#">医疗器械许可证</a></li>
+                        <li><a href="#">网络文化经营许可证</a></li>
+                        <li><a href="#">广播电视节目许可证</a></li>
+                    </ol>
+                </li>
+                <li style="margin-left:30px;">
+                    <ol>
+                        <li><a href="#"><h3><strong>财税咨询</strong></h3></a></li>
+                        <li><a href="#">企业验资报告</a></li>
+                        <li><a href="#">财务报表审计</a></li>
+                        <li><a href="#">专项审计报告</a></li>
+                        <li><a href="#">工商年检审计</a></li>
+                    </ol>
+                </li>
+                <li>
+                    <ol>
+                        <li><a href="#"><h3><strong>帮助中心</strong></h3></a></li>
+                        <li><a href="#">用户疑难</a></li>
+                        <li><a href="#">意见反馈</a></li>
+                        <li><a href="#">在线解答</a></li>
+                        <li><a href="#">合作渠道</a></li>
+                    </ol>
+                </li>
+                <li>
+                    <ol>
+                        <li style="border:none;"><a href="#"><h3><strong>关于我们</strong></h3></a></li>
+                        <li style="border:none;"><a href="#">关于明动</a></li>
+                        <li style="border:none;"><a href="#">企业风采</a></li>
+                        <li style="border:none;"><a href="#">法律声明</a></li>
+                        <li style="border:none;"><a href="#">客户口碑</a></li>
+                    </ol>
+                </li>
+                <li>
+                    <ol>
+                        <li style="border:none;"><a href="#"><h3><strong>联系电话</strong></h3></a></li>
+                        <li style="border:none;"><a href="#">40000-82848</a></li>
+                        <li style="border:none;"><a href="#"></a></li>
+                        <li style="border:none;"><a href="#"><h3><strong>在线咨询</strong></h3></a></li>
+                        <li style="border:none;"><a href="#">点击在线咨询</a></li>
+
+                    </ol>
+                </li>
+            </ul>
+            <img src="images/index26.jpg" alt="前海公司注册 - 明动投资咨询">
+        </div>
+        <div class="copyB">
+            <article><em>友情链接：</em><a href="#">食品经营许可证、</a><a href="#">网络文化经营许可证、</a><a href="#">医疗器械许可证、</a><a href="#">广播电视节目许可证、</a>
+                <a href="#">危险化学品经营许可证EDI在线数据处理与交易业务、</a><a href="#">ＩＳＰ许可证、</a><a href="#">ＩＤＣ许可证、</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">SP 许可证、</a>
+                    <a href="#">ICP许可证、</a><a href="#">企业验资报告、</a><a href="#">企业验资报告、</a><a href="#">专项审计报告、</a><a href="#">工商年检审计。</a>
+            </article><br>
+            <p>深圳市南山区东滨路4096号濠盛商务中心807-808室</p>
+            <p>Shenzhen Nanshan District, 4096 Hao Sheng Business Center Room 807-808 Dongbin Road</p>
+            <p><a href="http://www.miitbeian.gov.cn/">Copyright  2010-2016 mdong.net.cn 明动投资咨询 版权所有 ICP备案号： 粤ICP备16043262号</a></p>
+        </div>
+    </div>
+    <!--遮罩层-->
+<script type="text/javascript" src="style/main.js"></script>
+<script type="text/javascript">
+    window.onresize = function () {
+       window.location.reload();
+       }
+</script>
+<script>
+    function Click() {
+        alt('版权所有，请勿复制!')
+        window.event.returnValue = false;
+    }
+    document.oncontextmenu = Click;
+</script>
+  
+
+
+</body>

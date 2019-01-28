@@ -1,0 +1,1 @@
+<li><article>[field:global.autoindex/]</article><p>[field:description function="cn_substr(@me,45)"/]</p></li>
